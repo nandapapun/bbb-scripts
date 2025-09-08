@@ -1,0 +1,6 @@
+public.app.listenOnlyMode=false
+public.app.skipCheck=true
+public.app.displayBbbServerVersion=false
+
+
+

@@ -1,0 +1,12 @@
+generatePngs=true
+defaultMaxUsers=50
+defaultMeetingDuration=1440
+learningDashboardCleanupDelayInMinutes=0
+meetingCameraCap=50
+userCameraCap=2
+allowModsToUnmuteUsers=true
+allowModsToEjectCameras=true
+defaultKeepEvents=true
+allowRevealOfBBBVersion=false
+
+
